@@ -1,2 +1,7 @@
 # speg
-Dynamic ORM for node.js
+
+> Dynamic ORM for node.js
+
+* * *
+
+_W.I.P._
