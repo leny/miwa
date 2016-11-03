@@ -1,4 +1,4 @@
-# speg
+# miwa
 
 > Dynamic ORM for node.js
 
