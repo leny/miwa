@@ -1,4 +1,4 @@
-# <img alt="" src="./miwa/svg" height="20" style="vertical-align:middle;" /> miwa
+# <img alt="" src="./miwa.svg" height="20" style="vertical-align:middle;" /> miwa
 
 > Dynamic ORM for node.js
 
